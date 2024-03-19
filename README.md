@@ -32,3 +32,6 @@ You may download the game [**here**](https://zenjlle.itch.io/payat-sa-taas).
 <h3 align = "center">Created by Team DD of Jose Rizal University</h3>
 <h4 align = "center">BSEMC-GAD 101GA A.Y. 2223</h4>
 <p align = "center"> ⋅•⋅⊰∙∘☽༓☾∘∙⊱⋅•⋅ </p>
+
+<img align = "center" width = "500" img src = "https://github.com/zenjlle/PayatSaTaas/assets/142300998/22a8b438-ee39-478d-ac2d-cee5add1407b">
+
